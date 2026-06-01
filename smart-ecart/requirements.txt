@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+yt-dlp
+opencv-python
+openai-whisper
+ultralytics
+pytesseract
+transformers
+torch
